@@ -8,6 +8,7 @@ It explores how a lightweight ERP system could connect production, warehouse, qu
 
 - [Case study](./case-study.md)
 - [Architecture outline](./architecture.md)
+- [Technology stack](./technology-stack.md)
 - [Module map](./module-map.md)
 - [Roles and permissions matrix](./roles-permissions.md)
 - [Roadmap](./roadmap.md)
@@ -37,6 +38,21 @@ The most important questions behind the project are:
 - Which measurement tools are valid for use?
 - Who should be allowed to change sensitive data?
 - How can analytics support decisions without creating reporting chaos?
+
+## Proposed technology direction
+
+The planned MVP stack is based on practical and understandable technologies:
+
+- React + TypeScript for the frontend,
+- Node.js + TypeScript for the backend,
+- PostgreSQL for relational manufacturing data,
+- REST API with OpenAPI documentation,
+- Zod validation,
+- role-based access control,
+- Docker Compose for local development,
+- Markdown and Mermaid for documentation.
+
+This is currently a proposed stack for the case study and future MVP, not a claim that the full system has already been implemented.
 
 ## Current status
 
