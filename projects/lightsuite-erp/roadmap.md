@@ -20,9 +20,9 @@ Goal: make the concept more concrete.
 - Draft relational data model — v0.1 done
 - Define user roles and permissions — done
 - Draft first PostgreSQL schema — v0.1 done
-- Describe production-to-quality workflow — next
-- Describe warehouse-to-production workflow — next
-- Describe tooling and calibration workflow — next
+- Describe production-to-quality workflow — done
+- Describe warehouse-to-production workflow — done
+- Describe tooling and calibration workflow — done
 
 ## Phase 3 — API and data
 
