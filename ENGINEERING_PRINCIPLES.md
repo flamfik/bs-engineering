@@ -45,9 +45,3 @@ It includes documentation, traceability, validation, calibration, communication,
 Learning projects can be shared, but they should be labelled honestly.
 
 A prototype is a prototype. A concept is a concept. A production-ready system is something else. This distinction matters.
-
-## 8. Never inflate competence
-
-If a skill is not strong enough to discuss comfortably, it should not be placed at the center of the profile.
-
-Growth is better than pretending. Confidence should come from practice, not from keywords.
