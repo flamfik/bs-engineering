@@ -32,7 +32,7 @@ Goal: show software architecture thinking.
 - Define core entities — v0.1 done
 - Add validation principles — introduced in API endpoint draft v0.1
 - Add audit log concept — introduced in data model v0.1 and schema v0.1
-- Add reporting data flow — next
+- Add reporting data flow — done
 - Prepare sample demo data — next
 - Prepare OpenAPI YAML draft — next
 
