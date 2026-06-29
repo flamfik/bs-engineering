@@ -8,6 +8,8 @@ It explores how a lightweight ERP system could connect production, warehouse, qu
 
 - [Case study](./case-study.md)
 - [Architecture outline](./architecture.md)
+- [Module map](./module-map.md)
+- [Roles and permissions matrix](./roles-permissions.md)
 - [Roadmap](./roadmap.md)
 
 ## Why this project exists
@@ -21,6 +23,20 @@ This project connects the strongest parts of the BS Engineering profile:
 - data structure,
 - software architecture,
 - practical systems thinking.
+
+## What this case study shows
+
+LightSuite ERP is not only an idea for software. It is a structured way to show how manufacturing information could flow between people, roles, modules and data.
+
+The most important questions behind the project are:
+
+- How does an order move through production?
+- Where does material information come from?
+- How are quality records connected to production context?
+- Which documents are current and controlled?
+- Which measurement tools are valid for use?
+- Who should be allowed to change sensitive data?
+- How can analytics support decisions without creating reporting chaos?
 
 ## Current status
 
