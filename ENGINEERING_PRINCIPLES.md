@@ -1,35 +1,53 @@
 # Engineering Principles
 
-These principles define how BS Engineering projects should be planned, documented and improved.
+These principles describe the way I want to approach technical work inside BS Engineering.
+
+They are not meant to sound perfect. They are meant to be useful reminders when projects become complex, exciting or messy.
 
 ## 1. Understand the system before changing it
 
-Do not optimize or automate before understanding the process, constraints, users and failure modes.
+Before optimizing, automating or redesigning anything, I want to understand how the system works today.
+
+That means looking at the process, constraints, people, documentation, data, tools and failure modes. Without that, improvement becomes guessing.
 
 ## 2. Measure before improving
 
-Quality and process improvement should be based on data, observations and repeatable checks whenever possible.
+Quality work starts with observation.
+
+If something can be measured, checked, compared or traced, it should be. Good decisions need more than intuition, even when intuition is a useful starting point.
 
 ## 3. Document decisions
 
-Documentation is part of engineering. A project without documentation is harder to trust, maintain and explain.
+Documentation is not an afterthought. It is part of engineering.
+
+A project becomes easier to trust when it explains not only what was built, but also why certain decisions were made.
 
 ## 4. Build for maintainability
 
-A simple, understandable solution is usually better than an impressive but fragile one.
+A solution should be understandable after the first excitement is gone.
 
-## 5. Automate repetitive work carefully
+I prefer simple, maintainable structures over impressive complexity that becomes hard to explain, test or improve.
 
-Automation should reduce errors and cognitive load, not create hidden complexity.
+## 5. Automate carefully
+
+Automation should make work easier, more repeatable and less error-prone.
+
+If automation creates hidden complexity or removes understanding from the process, it needs to be reconsidered.
 
 ## 6. Treat quality as a system
 
-Quality is not only inspection. It includes documentation, traceability, validation, calibration, communication and feedback loops.
+Quality is not only inspection.
 
-## 7. Learn publicly but honestly
+It includes documentation, traceability, validation, calibration, communication, feedback and the way people use information to make decisions.
 
-Learning projects can be public, but they should be clearly marked as learning, experimental or personal projects.
+## 7. Learn publicly, but honestly
+
+Learning projects can be shared, but they should be labelled honestly.
+
+A prototype is a prototype. A concept is a concept. A production-ready system is something else. This distinction matters.
 
 ## 8. Never inflate competence
 
-If a skill is not comfortable enough to defend in an interview, it should not be presented as a core competence.
+If a skill is not strong enough to discuss comfortably, it should not be placed at the center of the profile.
+
+Growth is better than pretending. Confidence should come from practice, not from keywords.
