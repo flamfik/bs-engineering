@@ -23,7 +23,7 @@ BS Engineering is a working space for building a long-term professional identity
 - visual and brand guidelines,
 - learning notes and future case studies.
 
-This is not meant to be a polished façade. It is meant to become a record of real work, real learning and real improvement.
+This is not meant to be a polished facade. It is meant to become a record of real work, real learning and real improvement.
 
 ## Core direction
 
