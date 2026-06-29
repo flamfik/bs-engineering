@@ -1,26 +1,31 @@
 # Mission
 
-The mission of BS Engineering is to build a credible, structured and evidence-based professional engineering profile.
+The mission of BS Engineering is to turn experience, curiosity and technical work into a clear professional system.
 
-This means turning real experience, learning, projects and technical curiosity into documents and repositories that are clear, useful and trustworthy.
+I do not want this project to be only a place for files. I want it to help me make better decisions about my career, document my learning, improve my portfolio and present my work in a way that feels both professional and real.
 
 ## Mission statement
 
-> Build better engineering systems by combining manufacturing knowledge, quality thinking, technical documentation, IT infrastructure, data analysis and modern tools.
+> Build better engineering systems by combining manufacturing knowledge, quality thinking, technical documentation, IT infrastructure, data analysis and practical technology.
 
-## Practical mission
+## What this means in practice
 
-BS Engineering should help with:
+BS Engineering should help me:
 
-- building targeted resumes for specific job offers,
-- keeping LinkedIn aligned with the resume strategy,
-- documenting engineering projects in a consistent format,
-- tracking job applications and market feedback,
-- developing GitHub repositories as proof of technical thinking,
-- maintaining a long-term learning and certification roadmap.
+- create targeted resumes without rewriting everything from scratch,
+- keep LinkedIn aligned with my real professional direction,
+- document projects in a consistent and understandable way,
+- show how I approach technical problems,
+- track applications and learn from market feedback,
+- build GitHub into a portfolio, not just a storage place,
+- develop a learning roadmap based on real career goals.
 
 ## What this project is not
 
-BS Engineering is not about pretending to have skills that cannot be defended in an interview.
+This project is not about pretending to be someone else.
 
-This project is based on evidence, practical work, honest positioning and continuous improvement.
+It is not about adding skills that sound impressive but cannot be defended in an interview. It is not about using buzzwords to cover missing experience.
+
+The mission is the opposite: take real experience, name it properly, document it clearly and build from there.
+
+If BS Engineering works, it should make my professional story easier to trust.
