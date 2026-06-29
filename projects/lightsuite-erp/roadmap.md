@@ -4,33 +4,33 @@
 
 Goal: explain the project clearly as a portfolio case study.
 
-- Define project name and purpose
-- Write case study summary
-- Define target users
-- Describe core modules
-- Define high-level workflow
-- Add current limitations
-- Connect project to BS Engineering career direction
+- Define project name and purpose — done
+- Write case study summary — done
+- Define target users — done
+- Describe core modules — done
+- Define high-level workflow — done
+- Add current limitations — done
+- Connect project to BS Engineering career direction — done
 
 ## Phase 2 — System design
 
 Goal: make the concept more concrete.
 
-- Create module map
-- Draft relational data model
-- Define user roles and permissions
-- Describe production-to-quality workflow
-- Describe warehouse-to-production workflow
-- Describe tooling and calibration workflow
+- Create module map — done
+- Draft relational data model — v0.1 done
+- Define user roles and permissions — done
+- Describe production-to-quality workflow — next
+- Describe warehouse-to-production workflow — next
+- Describe tooling and calibration workflow — next
 
 ## Phase 3 — API and data
 
 Goal: show software architecture thinking.
 
 - Draft REST API endpoint examples
-- Define core entities
+- Define core entities — v0.1 done
 - Add validation principles
-- Add audit log concept
+- Add audit log concept — introduced in data model v0.1
 - Add reporting data flow
 
 ## Phase 4 — User experience
