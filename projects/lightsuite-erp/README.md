@@ -14,6 +14,9 @@ It explores how a lightweight ERP system could connect production, warehouse, qu
 - [Data model v0.1](./data-model-v0.1.md)
 - [SQL schema v0.1](./schema-v0.1.sql)
 - [REST API endpoints v0.1](./api-endpoints-v0.1.md)
+- [Production to quality workflow](./production-to-quality-workflow.md)
+- [Warehouse to production workflow](./warehouse-to-production-workflow.md)
+- [Tooling and calibration workflow](./tooling-calibration-workflow.md)
 - [Roadmap](./roadmap.md)
 
 ## Why this project exists
