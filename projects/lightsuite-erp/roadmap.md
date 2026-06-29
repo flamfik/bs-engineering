@@ -19,6 +19,7 @@ Goal: make the concept more concrete.
 - Create module map — done
 - Draft relational data model — v0.1 done
 - Define user roles and permissions — done
+- Draft first PostgreSQL schema — v0.1 done
 - Describe production-to-quality workflow — next
 - Describe warehouse-to-production workflow — next
 - Describe tooling and calibration workflow — next
@@ -27,11 +28,12 @@ Goal: make the concept more concrete.
 
 Goal: show software architecture thinking.
 
-- Draft REST API endpoint examples
+- Draft REST API endpoint examples — next
 - Define core entities — v0.1 done
 - Add validation principles
-- Add audit log concept — introduced in data model v0.1
+- Add audit log concept — introduced in data model v0.1 and schema v0.1
 - Add reporting data flow
+- Prepare sample demo data
 
 ## Phase 4 — User experience
 
