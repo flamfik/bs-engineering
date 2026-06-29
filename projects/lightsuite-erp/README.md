@@ -17,6 +17,7 @@ It explores how a lightweight ERP system could connect production, warehouse, qu
 - [Production to quality workflow](./production-to-quality-workflow.md)
 - [Warehouse to production workflow](./warehouse-to-production-workflow.md)
 - [Tooling and calibration workflow](./tooling-calibration-workflow.md)
+- [Reporting data flow](./reporting-data-flow.md)
 - [Roadmap](./roadmap.md)
 
 ## Why this project exists
