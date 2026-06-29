@@ -13,6 +13,7 @@ It explores how a lightweight ERP system could connect production, warehouse, qu
 - [Roles and permissions matrix](./roles-permissions.md)
 - [Data model v0.1](./data-model-v0.1.md)
 - [SQL schema v0.1](./schema-v0.1.sql)
+- [REST API endpoints v0.1](./api-endpoints-v0.1.md)
 - [Roadmap](./roadmap.md)
 
 ## Why this project exists
