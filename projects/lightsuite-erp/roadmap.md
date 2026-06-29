@@ -33,7 +33,7 @@ Goal: show software architecture thinking.
 - Add validation principles — introduced in API endpoint draft v0.1
 - Add audit log concept — introduced in data model v0.1 and schema v0.1
 - Add reporting data flow — done
-- Prepare sample demo data — next
+- Prepare sample demo data — done
 - Prepare OpenAPI YAML draft — next
 
 ## Phase 4 — User experience
