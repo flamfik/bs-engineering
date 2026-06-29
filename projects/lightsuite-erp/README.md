@@ -18,6 +18,8 @@ It explores how a lightweight ERP system could connect production, warehouse, qu
 - [Warehouse to production workflow](./warehouse-to-production-workflow.md)
 - [Tooling and calibration workflow](./tooling-calibration-workflow.md)
 - [Reporting data flow](./reporting-data-flow.md)
+- [Sample demo data](./sample-demo-data.md)
+- [Sample demo SQL seed v0.1](./sample-demo-data-v0.1.sql)
 - [Roadmap](./roadmap.md)
 
 ## Why this project exists
