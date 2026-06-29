@@ -1,6 +1,8 @@
 # Applications Tracker
 
-This file is used to track job applications and measure which CV versions work best.
+This file is for tracking job applications and learning from the process.
+
+The goal is not to send as many applications as possible. The goal is to understand which roles, CV versions and messages create real conversations.
 
 Do not store sensitive personal data here.
 
@@ -21,14 +23,16 @@ Do not store sensitive personal data here.
 - Offer
 - Withdrawn
 
-## Metrics to review monthly
+## Monthly review
 
-- Number of applications sent
-- Response rate
-- Interview rate
-- Best-performing CV variant
-- Most common missing requirements
-- Skills to strengthen next
+Once per month, review:
+
+- How many applications were sent?
+- Which CV version received the best response?
+- Which roles felt like the strongest fit?
+- Which requirements were missing most often?
+- Which messages or cover notes worked best?
+- What should be improved before the next batch?
 
 ## Feedback notes
 
@@ -38,6 +42,15 @@ Use this section to capture recruiter feedback, interview notes and patterns.
 Date:
 Company:
 Role:
+CV version:
 Feedback:
+What worked:
+What was missing:
 Action:
 ```
+
+## Working rule
+
+Do not treat rejection as only failure. Treat it as data.
+
+If a pattern repeats, the profile, CV, portfolio or learning roadmap should be adjusted.
