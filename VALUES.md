@@ -1,29 +1,45 @@
 # Values
 
+These values keep BS Engineering grounded. They are here to make sure the project stays useful, honest and human.
+
 ## Credibility
 
-Only include skills, tools and procedures that can be honestly discussed and defended in an interview.
+If I cannot explain something in an interview, it should not be presented as a core skill.
+
+This is why some technologies or procedures may be intentionally left out, even if they look good on paper. Trust is more important than decoration.
 
 ## Clarity
 
-Use clear structure, plain language and practical examples. Good engineering communication should reduce ambiguity.
+Good technical communication should make things easier to understand.
+
+Whether it is a CV, README, diagram or project note, the goal is the same: reduce confusion and help the reader see the structure behind the work.
 
 ## Quality
 
-Prefer fewer, better-documented projects over many unfinished or poorly described repositories.
+I prefer fewer projects that are documented well over many projects that are unfinished, unclear or hard to understand.
+
+A small project can still show strong engineering thinking if it explains the problem, decisions, limitations and next steps.
 
 ## Continuous improvement
 
-Treat resume, LinkedIn, GitHub and portfolio as living products that improve through feedback and iteration.
+Resume, LinkedIn, GitHub and portfolio are not static documents. They are living products.
+
+They should improve through feedback, applications, interviews, new projects and new learning.
 
 ## Evidence over slogans
 
-Do not rely on empty claims. Show proof through documentation, projects, examples, diagrams, case studies and measurable progress.
+Instead of saying that I am analytical, organized or technical, I want to show it through examples, documentation, project structure and practical decisions.
+
+Proof is stronger than self-description.
 
 ## Systems thinking
 
-Understand problems as part of larger systems: manufacturing, quality, documentation, IT infrastructure, data and people.
+Most problems do not exist in isolation.
+
+Manufacturing quality connects to documentation. Documentation connects to traceability. Traceability connects to data. Data connects to decisions. This way of seeing connections is one of the foundations of BS Engineering.
 
 ## Practicality
 
-Build things that are useful, maintainable and understandable. Avoid complexity that does not serve a clear purpose.
+A solution should help real people do real work better.
+
+If something looks impressive but makes the process harder to understand or maintain, it probably needs to be simplified.
