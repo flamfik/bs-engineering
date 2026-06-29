@@ -22,6 +22,28 @@ Relational database
 Audit, reporting and integration layer
 ```
 
+## Proposed technology direction
+
+This is an early architecture direction, not a final implementation claim.
+
+The proposed MVP stack is:
+
+```text
+React + TypeScript frontend
+    ↓
+Node.js + TypeScript backend
+    ↓
+REST API with OpenAPI documentation
+    ↓
+Zod validation and role-based access control
+    ↓
+PostgreSQL relational database
+    ↓
+Docker Compose local environment
+```
+
+The reason for this stack is practicality. LightSuite ERP should be easy to run locally, easy to document, and strong enough to model relational manufacturing data.
+
 ## Core modules
 
 ### Production module
@@ -66,18 +88,17 @@ Handles users, roles, permissions, system configuration and licensing.
 
 ## Suggested technical direction
 
-This is an early architecture direction, not a final stack decision.
-
 Possible direction:
 
-- backend API,
-- SQL database,
-- modular frontend,
-- Docker-based local development,
-- REST API documentation,
+- React frontend with role-based screens,
+- Node.js backend with modular services,
+- PostgreSQL database,
+- Prisma or Drizzle for database access and migrations,
+- Zod for API validation,
+- OpenAPI / Swagger for endpoint documentation,
+- Docker Compose for local development,
+- JWT or session-based authentication,
 - role-based access control,
-- structured migrations,
-- API validation,
 - automated tests over time.
 
 ## Architecture principle
