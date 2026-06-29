@@ -28,4 +28,4 @@ It is not about adding skills that sound impressive but cannot be defended in an
 
 The mission is the opposite: take real experience, name it properly, document it clearly and build from there.
 
-If BS Engineering works, it should make my professional story easier to trust.
+If BS Engineering works, it should make my professional story easier to understand.
