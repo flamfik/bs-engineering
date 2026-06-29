@@ -4,17 +4,37 @@
 
 Draft / personal project concept.
 
+## Why this project matters
+
+This project started from a practical idea: maps become more useful when people can add structured local knowledge to them.
+
+A map is not only a visual layer. It can become a small information system where users report places, describe conditions, add metadata and help others make better decisions.
+
+The Android GIS Application is a way to explore that idea through mobile design, geospatial data and community reporting workflows.
+
 ## Purpose
 
-An Android GIS application concept based on OpenStreetMap for community-driven geospatial reporting and location management.
+The project is an Android application concept based on OpenStreetMap. It focuses on location-based reporting, map interaction and structured data collection.
+
+It is a personal project that demonstrates mobile app architecture, GIS thinking and user-oriented workflow design.
 
 ## Problem
 
-Location-based community data often requires simple mobile tools for reporting, reviewing and managing map points with structured metadata.
+Community-based location data is often messy. Reports need structure, validation and a clear user flow.
+
+If the interface is too complicated, users will not add data. If the data model is too loose, the information becomes hard to trust.
 
 ## Project goal
 
-Demonstrate mobile application architecture using map integration, local data models, reporting workflows and user-friendly interaction patterns.
+Demonstrate a mobile application architecture using:
+
+- map integration,
+- local data models,
+- reporting workflows,
+- structured metadata,
+- validation,
+- offline-first thinking,
+- clear navigation.
 
 ## Technologies / concepts
 
@@ -36,3 +56,7 @@ Demonstrate mobile application architecture using map integration, local data mo
 - User flows
 - Screenshots
 - Roadmap
+
+## Current learning value
+
+This project connects mobile development, spatial data, user experience and structured reporting. It also supports the broader BS Engineering theme: turning real-world observations into useful digital systems.
