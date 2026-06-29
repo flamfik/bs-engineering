@@ -12,7 +12,7 @@ Each project should eventually answer a simple question:
 
 | Project | Area | Status | Why it matters |
 |---|---|---|---|
-| Manufacturing ERP Platform | Manufacturing systems / ERP | Draft | Shows how I think about production, warehouse, quality, calibration, analytics and REST APIs as one connected system. |
+| LightSuite ERP | Manufacturing systems / ERP | Case study in progress | Shows how I think about production, warehouse, quality, calibration, analytics and REST APIs as one connected manufacturing system. |
 | HydrogenHTTPD | C++ / HTTP / Security | Draft | Shows interest in lower-level systems, security-focused architecture and clear technical documentation. |
 | Android GIS Application | Android / GIS / OpenStreetMap | Draft | Shows mobile, geospatial and community-data thinking through a practical app concept. |
 | AI Engineering Lab | AI-assisted engineering / documentation | Draft | Shows how AI can support engineering work when used critically and reviewed by a human. |
