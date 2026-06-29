@@ -11,6 +11,7 @@ It explores how a lightweight ERP system could connect production, warehouse, qu
 - [Technology stack](./technology-stack.md)
 - [Module map](./module-map.md)
 - [Roles and permissions matrix](./roles-permissions.md)
+- [Data model v0.1](./data-model-v0.1.md)
 - [Roadmap](./roadmap.md)
 
 ## Why this project exists
