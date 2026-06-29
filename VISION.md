@@ -26,9 +26,7 @@ Over time, this repository should become:
 
 ## Desired impression
 
-When someone reads this material, I do not want them to see a collection of random interests.
-
-I want them to see a person who:
+I want you to see a person who:
 
 - takes technical work seriously,
 - documents ideas carefully,
@@ -37,4 +35,4 @@ I want them to see a person who:
 - values quality, traceability and clarity,
 - prefers honest competence over inflated claims.
 
-The vision is simple: make BS Engineering a professional, human and trustworthy representation of my engineering journey.
+The vision is simple: make BS Engineering a professional and trustworthy representation of my engineering journey.
