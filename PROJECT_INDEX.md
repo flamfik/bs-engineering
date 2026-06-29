@@ -1,16 +1,22 @@
 # Project Index
 
-This file tracks BS Engineering portfolio projects and their documentation status.
+This file is the map of BS Engineering portfolio projects.
+
+The point of these projects is not to pretend that every idea is a finished commercial product. The point is to document how I think about systems, architecture, quality, data, automation and technical problem solving.
+
+Each project should eventually answer a simple question:
+
+> What problem does this explore, and what does it show about the way I approach engineering?
 
 ## Flagship projects
 
-| Project | Area | Status | Purpose |
+| Project | Area | Status | Why it matters |
 |---|---|---|---|
-| Manufacturing ERP Platform | Manufacturing systems / ERP | Draft | Demonstrate system architecture thinking across production, warehouse, quality, analytics and REST APIs. |
-| HydrogenHTTPD | C++ / HTTP / Security | Draft | Demonstrate low-level systems thinking, modular architecture and secure-by-default design. |
-| Android GIS Application | Android / GIS / OpenStreetMap | Draft | Demonstrate mobile app architecture and geospatial data concepts. |
-| AI Engineering Lab | AI-assisted engineering / documentation | Draft | Demonstrate use of AI to support documentation, analysis and process improvement. |
-| Quality Tools | Metrology / QA / MSA | Planned | Demonstrate practical quality engineering tools and measurement system thinking. |
+| Manufacturing ERP Platform | Manufacturing systems / ERP | Draft | Shows how I think about production, warehouse, quality, calibration, analytics and REST APIs as one connected system. |
+| HydrogenHTTPD | C++ / HTTP / Security | Draft | Shows interest in lower-level systems, security-focused architecture and clear technical documentation. |
+| Android GIS Application | Android / GIS / OpenStreetMap | Draft | Shows mobile, geospatial and community-data thinking through a practical app concept. |
+| AI Engineering Lab | AI-assisted engineering / documentation | Draft | Shows how AI can support engineering work when used critically and reviewed by a human. |
+| Quality Tools | Metrology / QA / MSA | Planned | Will connect quality knowledge with practical tools for measurement, analysis and documentation. |
 
 ## Documentation standard
 
@@ -27,6 +33,10 @@ Every project should eventually include:
 9. Roadmap
 10. Status and limitations
 
-## Important rule
+## Project honesty rule
 
-Personal projects must be clearly described as personal, educational, prototype or concept work. They should not be presented as commercial experience unless they were commercial projects.
+A personal project should be clearly described as personal, educational, prototype or concept work.
+
+That does not make it weak. It makes it trustworthy.
+
+A well-documented prototype can still show initiative, structure and technical thinking. The important thing is to describe it accurately.
