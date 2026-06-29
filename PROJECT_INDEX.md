@@ -35,8 +35,6 @@ Every project should eventually include:
 
 ## Project honesty rule
 
-A personal project should be clearly described as personal, educational, prototype or concept work.
-
-That does not make it weak. It makes it trustworthy.
+My projects are only for my personal developement and hardening my skills.
 
 A well-documented prototype can still show initiative, structure and technical thinking. The important thing is to describe it accurately.
