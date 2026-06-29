@@ -28,12 +28,13 @@ Goal: make the concept more concrete.
 
 Goal: show software architecture thinking.
 
-- Draft REST API endpoint examples — next
+- Draft REST API endpoint examples — v0.1 done
 - Define core entities — v0.1 done
-- Add validation principles
+- Add validation principles — introduced in API endpoint draft v0.1
 - Add audit log concept — introduced in data model v0.1 and schema v0.1
-- Add reporting data flow
-- Prepare sample demo data
+- Add reporting data flow — next
+- Prepare sample demo data — next
+- Prepare OpenAPI YAML draft — next
 
 ## Phase 4 — User experience
 
